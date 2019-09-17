@@ -1,0 +1,8 @@
+1.簡單介紹 android
+2.建立一個空白專案
+3.建立 AVD 模擬器
+4.介紹 layout
+5.介紹 strings.xml
+6.參考網址
+https://tinyurl.com/HeadFirstAndroid
+https://github.com/dogriffiths/HeadFirstAndroid
