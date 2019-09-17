@@ -1,0 +1,10 @@
+1.使用 layout 元件
+2.拉介面
+3.使用字串資源
+4.簡易使用 TextView
+5.簡易使用 Spinner 參照 String-array
+6.為按鈕設定事件，在 xml 使用 onclick 呼叫方法
+7.在 activity 寫入 onclick 方法
+8.封裝
+9.自訂義類別
+10.自訂義方法
