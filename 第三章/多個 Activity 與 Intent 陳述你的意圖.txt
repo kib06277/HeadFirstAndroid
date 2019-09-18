@@ -1,0 +1,9 @@
+1.多個 Activity 透過 Intent 溝通
+2.建立多個 Activity ，替多個 Activity 和 layout 做設定
+3.描述 manifests 與 Activity 和 layout 的關係
+4.描述 Intent 功能
+5.透過 Intent 溝通同一隻 APP 的 Activity
+6.透過 Intent 溝通不同隻 APP 的 Activity
+7.Intent action 活動動作詳細參考網站如下
+8.使用實機測試
+9.開啟實機 USB 偵錯
