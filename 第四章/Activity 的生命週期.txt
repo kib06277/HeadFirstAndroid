@@ -1,0 +1,7 @@
+1.activity 執行的過程
+2.撰寫計時器 APP
+3.handle 的使用方式以及介紹
+4.post()
+5.postDelayed()
+6.螢幕反轉，APP 重製的原因與解決辦法
+7.生命週期
