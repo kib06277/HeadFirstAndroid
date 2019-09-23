@@ -4,5 +4,5 @@
 http://dogriffiths.github.io/HeadFirstAndroid
 
 2.官方 github 隨書附贈
-https://github.com/dogriffiths/HeadFirstAndroid/blob/master/README.md
+https://github.com/dogriffiths/HeadFirstAndroid
 
