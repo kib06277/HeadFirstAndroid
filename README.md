@@ -1,4 +1,4 @@
-#深入淺出 - Android 開發
+# 深入淺出 - Android 開發
 
 1.官方網址隨書附贈
 http://dogriffiths.github.io/HeadFirstAndroid
