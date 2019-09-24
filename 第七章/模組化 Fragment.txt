@@ -1,0 +1,12 @@
+1.各種裝置適應性
+2.使用 java 程式碼設計 layout
+3.fragment 生命週期
+4.Fragment 基本規則
+5.使用系統的 ListFragment
+6.使用 ArrayAdapter 設定 ListView
+7.介面 (ubterface)
+8.返回堆疊(back stack)
+9.使用 fragment 交易
+10.fragment 旋轉裝置毀壞的解決辦法
+11.根據裝置設定不一樣的 java 和 layout
+12.利用布局差異辨識裝置
