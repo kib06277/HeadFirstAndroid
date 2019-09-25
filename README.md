@@ -92,3 +92,13 @@
 <li>10.fragment 旋轉裝置毀壞的解決辦法</li>
 <li>11.根據裝置設定不一樣的 java 和 layout</li>
 <li>12.利用布局差異辨識裝置</li>
+
+# 第八章 - 嵌套式 Fragment
+<li>1.actiity 與 fragment 差異</li>
+<li>2.fragment 可以包含其他 fragment</li>
+<li>3.子父 fragment 的關係，必須透過程式化增加</li>
+<li>4.fragment 嵌套式交易 (getChildFragmentManager() )</li>
+<li>5.onclick 無法再嵌套式使用的原因與解決辦法</li>
+<li>6.在 fragment 實作 OnclickListener</li>
+<li>7.將 OnclickListner 附加到按鈕</li>
+<li>8.旋轉螢幕 Fragment 會錯誤的原因與解決辦法</li>
