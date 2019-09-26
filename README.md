@@ -102,3 +102,18 @@
 <li>6.在 fragment 實作 OnclickListener</li>
 <li>7.將 OnclickListner 附加到按鈕</li>
 <li>8.旋轉螢幕 Fragment 會錯誤的原因與解決辦法</li>
+
+
+# 第九章 - ActionBar 走捷徑
+<li>1.清楚的結構</li>
+<li>2.介紹 action bar</li>
+<li>3.theme 主題</li>
+<li>4.android 支援程式庫</li>
+<li>5.定義主題與在 AndroidManifestt.xml 使用主題</li>
+<li>6.不同 API Leverl 使用不同的 styles</li>
+<li>7.增加 action item 到 action bar</li>
+<li>8.menu 資源檔</li>
+<li>9.icon pack icon 支援包網址 https://developer.android.com/design/downloads/index.html</li>
+<li>10.action bar 分享</li>
+<li>11.up 導覽</li>
+<li>★ActionBar 棄用請更改使用 Toolbar</li>
