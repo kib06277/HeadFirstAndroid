@@ -1,0 +1,12 @@
+1.清楚的結構
+2.介紹 action bar
+3.theme 主題
+4.android 支援程式庫
+5.定義主題與在 AndroidManifestt.xml 使用主題
+6.不同 API Leverl 使用不同的 styles
+7.增加 action item 到 action bar
+8.menu 資源檔
+9.icon pack icon 支援包網址 https://developer.android.com/design/downloads/index.html
+10.action bar 分享
+11.up 導覽
+★ActionBar 棄用請更改使用 Toolbar
