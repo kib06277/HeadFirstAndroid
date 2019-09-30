@@ -1,0 +1,6 @@
+1.navigation drawer 解構
+2.實作 BitsAndPizzas
+3.介紹 Navigation Drawer
+4.使用 ActionBarDrawerToggle
+5.讓 Navigation Drawer 開啟予關閉
+6.標題與 fragment 不同步
