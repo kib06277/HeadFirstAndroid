@@ -116,4 +116,12 @@
 <li>9.icon pack icon 支援包網址 https://developer.android.com/design/downloads/index.html</li>
 <li>10.action bar 分享</li>
 <li>11.up 導覽</li>
-<li>★ActionBar 棄用請更改使用 Toolbar</li>
+<li>★ActionBar 不更新請更改使用 Toolbar</li>
+
+# 第十章 - NavigationDrawer
+<li>1.navigation drawer 解構</li>
+<li>2.實作 BitsAndPizzas</li>
+<li>3.介紹 Navigation Drawer</li>
+<li>4.使用 ActionBarDrawerToggle</li>
+<li>5.讓 Navigation Drawer 開啟予關閉</li>
+<li>6.標題與 fragment 不同步</li>
