@@ -1,15 +1,13 @@
 package com.hfad.bitsandpizzas;
-
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ShareActionProvider;
-
+import androidx.appcompat.widget.ShareActionProvider;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.view.MenuItemCompat;
 
-public class MainActivity extends Activity
+public class MainActivity extends AppCompatActivity
 {
     private ShareActionProvider shareActionProvider;
 
@@ -26,7 +24,7 @@ public class MainActivity extends Activity
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         MenuItem menuItem = menu.findItem(R.id.action_share);
-        shareActionProvider = (ShareActionProvider) menuItem.getActionProvider();
+        shareActionProvider = (ShareActionProvider) MenuItemCompat.getActionProvider(menuItem);
         setIntent("This is example text");
         return super.onCreateOptionsMenu(menu);
     }
