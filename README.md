@@ -125,3 +125,19 @@
 <li>4.使用 ActionBarDrawerToggle</li>
 <li>5.讓 Navigation Drawer 開啟予關閉</li>
 <li>6.標題與 fragment 不同步</li>
+
+# 第十一章 - SQLite 資料庫
+<li>1.介紹 SQLite</li>
+<li>2.建立資料庫</li>
+<li>3.使用結構化查詢語法建立資料表</li>
+<li>4.insert() 插入</li>
+<li>5.update() 更新</li>
+<li>6.delete() 刪除</li>
+<li>7.SQLite 執行過程</li>
+<li>8.更新與變更資料庫</li>
+<li>9.onUpgrade() 升級資料庫</li>
+<li>10.onDowngrade() 降級資料庫</li>
+<li>11.升級既有資料庫</li>
+<li>12.新增資料欄位</li>
+<li>13.變更資料欄位</li>
+<li>14.更名與刪除資料表</li>
