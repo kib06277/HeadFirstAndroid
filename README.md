@@ -141,3 +141,29 @@
 <li>12.新增資料欄位</li>
 <li>13.變更資料欄位</li>
 <li>14.更名與刪除資料表</li>
+
+# 第十二章 - Cursor 與 AsyncTask
+<li>1.使用 Cursor 從資料庫讀寫資料</li>
+<li>2.資料庫查詢 SQLiteDatabase 的 query()</li>
+<li>3.資料庫查詢相關網站 http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html</li>
+<li>4.指定資料表與欄位查詢</li>
+<li>5.多條件查詢</li>
+<li>6.查詢資料並排序</li>
+<li>7.查詢中使用 SQL 語法</li>
+<li>8.Group by (分組)與 having (函數判斷) 語法</li>
+<li>9.getReadableDatabase() 與 getWritableDatabase()</li>
+<li>10.操作 cursor</li>
+<li>11.關於 cursor 操作可參考 http://developer.android.com/reference/android/database/Cursor.html</li>
+<li>12.CursorAdapter </li>
+<li>13.SimpleCursorAdapter</li>
+<li>14.Cursor 不會自動更新，使用 ChangeCursor() 更新</li>
+<li>15.資料庫搭配執行緒優化 APP</li>
+<li>16.執行緒使用時機</li>
+<li>17.介紹 AsyncTask 非同步執行緒</li>
+<li>18.OnPreExecute()</li>
+<li>19.doInBackgroud()</li>
+<li>20.OnProgressUpdate()</li>
+<li>21.OnPostExecute()</li>
+<li>22.執行 AsyncTask </li>
+<li>23.AsyncTask 步驟摘要</li>
+
