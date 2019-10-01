@@ -1,0 +1,23 @@
+1.使用 Cursor 從資料庫讀寫資料
+2.資料庫查詢 SQLiteDatabase 的 query()
+3.資料庫查詢相關網站 http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html
+4.指定資料表與欄位查詢
+5.多條件查詢
+6.查詢資料並排序
+7.查詢中使用 SQL 語法
+8.Group by (分組)與 having (函數判斷) 語法
+9.getReadableDatabase() 與 getWritableDatabase()
+10.操作 cursor
+11.關於 cursor 操作可參考 http://developer.android.com/reference/android/database/Cursor.html
+12.CursorAdapter 
+13.SimpleCursorAdapter
+14.Cursor 不會自動更新，使用 ChangeCursor() 更新
+15.資料庫搭配執行緒優化 APP
+16.執行緒使用時機
+17.介紹 AsyncTask 非同步執行緒
+18.OnPreExecute()
+19.doInBackgroud()
+20.OnProgressUpdate()
+21.OnPostExecute()
+22.執行 AsyncTask 
+23.AsyncTask 步驟摘要
