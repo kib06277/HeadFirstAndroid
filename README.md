@@ -167,3 +167,21 @@
 <li>22.執行 AsyncTask </li>
 <li>23.AsyncTask 步驟摘要</li>
 
+# 第十三章 - Service 聽候差遣
+<li>1.介紹 Service</li>
+<li>2.介紹 Started service</li>
+<li>3.IntentService 建立與概觀</li>
+<li>4.實作 Joke</li>
+<li>5.紀錄日誌訊息</li>
+<li>6.在 AndroidManifest.xml 註冊 Service 服務</li>
+<li>7.使用 startService() 啟動 service 服務</li>
+<li>8.Service 使用 Toast 顯示訊息</li>
+<li>9.Service 使用 notification 顯示訊息</li>
+<li>10.使用 notification service</li>
+<li>11.關於 notification 細節可參考網站 https://developer.android.com/reference/android/app/Notification.Builder.html </li>
+<li>12.透過 notification 啟動 App</li>
+<li>13.介紹 Bound Service</li>
+<li>14.實作 Odmeter</li>
+<li>15.介紹 APP 如何和 Service 聯繫運作</li>
+<li>16.Service 類別有四個關鍵方法</li>
+<li>17.註冊 LocationListener</li>
