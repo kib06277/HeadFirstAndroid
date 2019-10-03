@@ -1,0 +1,16 @@
+1.android Runtime(ART)
+2.Android Debug Bridrge
+3.模擬器
+4.沒有介紹的技術
+A.發布 APP
+B.Content provide
+C.WebView
+D.動畫
+E.地圖
+F.Cursor Loader
+G.Broadcast Receiver
+H.APP Widget
+I.NinePatch 繪圖
+J.測試 
+關於測試可以參考 http://d.android.com/tool/testing/testing_android.html
+進階測試可以參考 https://code.google.com/p/robotium/
