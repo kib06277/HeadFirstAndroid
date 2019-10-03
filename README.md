@@ -185,3 +185,34 @@
 <li>15.介紹 APP 如何和 Service 聯繫運作</li>
 <li>16.Service 類別有四個關鍵方法</li>
 <li>17.註冊 LocationListener</li>
+
+# 第十四章 - Material Design 活在真實世界裡
+<li>1.介紹 Material Design</li>
+<li>2.介紹 CardView 與 RecyclerView</li>
+<li>3.實作 BitsAndrPizza_MaterialDesign</li>
+<li>4.使用 CardView</li>
+<li>5.使用 RecycleView</li>
+<li>6.使用基本適配器</li>
+<li>7.定義適配器的 ViewHolder</li>
+<li>8.RecyclerView 使用佈局管理器安排視圖元件</li>
+<li>9.指定佈局管理器</li>
+<li>10.讓 RecyclerView 回應</li>
+
+# 附錄
+<li>1.android Runtime(ART)</li>
+<li>2.Android Debug Bridrge</li>
+<li>3.模擬器</li>
+<li>4.沒有介紹的技術</li>
+<li>A.發布 APP</li>
+<li>B.Content provide</li>
+<li>C.WebView</li>
+<li>D.動畫</li>
+<li>E.地圖</li>
+<li>F.Cursor Loader</li>
+<li>G.Broadcast Receiver</li>
+<li>H.APP Widget</li>
+<li>I.NinePatch 繪圖</li>
+<li>J.測試 </li>
+<li>關於測試可以參考 http://d.android.com/tool/testing/testing_android.html</li>
+<li>進階測試可以參考 https://code.google.com/p/robotium/</li>
+
