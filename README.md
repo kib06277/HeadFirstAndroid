@@ -141,6 +141,7 @@
 <li>12.新增資料欄位</li>
 <li>13.變更資料欄位</li>
 <li>14.更名與刪除資料表</li>
+★Android 官方推薦資料庫新技術 「Room」替代 「SQLite」
 
 # 第十二章 - Cursor 與 AsyncTask
 <li>1.使用 Cursor 從資料庫讀寫資料</li>
